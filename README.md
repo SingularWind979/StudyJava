@@ -1,2 +1,2 @@
-# SingularWind979-StudyJava
+# StudyJava
 Study Java.
