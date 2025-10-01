@@ -1,4 +1,4 @@
-package tools.find.prime.num;/* *
+package tools.math.prime;/* *
  * 找出1000以内的素数
  *
  * TODO:

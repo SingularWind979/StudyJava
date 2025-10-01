@@ -4,6 +4,10 @@ public class HelloWorld {
     public static void main(String[] args) {
         printNum(1,10);
         printNum(1);
+        double x=3.5;
+        int y=13;
+        double z=2.5;
+        System.out.println(x+y%4*(int)(x+y)%3/2);
     }
     public static void printNum(int c){
         if(c>0){

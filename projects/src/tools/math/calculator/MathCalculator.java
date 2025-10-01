@@ -1,4 +1,4 @@
-package tools.math.calc;
+package tools.math.calculator;
 /* *
  * 目标：
  * 设计一个可以进行基本数学运算（加减乘除）的计算器程序
