@@ -1,2 +1,2 @@
-# StudyJavaProjects
-Study Java
+# StudyJava
+Study Java.
